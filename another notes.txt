@@ -11,7 +11,7 @@ source_control Managemnet-----Bitkeeper(company)
 {vcs----Verion control system
 dvcs----Distributed version control system}
 
-What is GIT?
+What is GIT?-
 
 Git is Distributed version control system for tracking changes in source code during s/w developement/ 
 it is desiginged for coordinating work among programmers,but it can be to track changes in any 
